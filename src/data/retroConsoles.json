@@ -1,0 +1,19 @@
+[
+  { "platform_id": 1, "name": "Atari 2600", "shortName": "Atari 2600" },
+  { "platform_id": 2, "name": "Atari 5200", "shortName": "Atari 5200" },
+  { "platform_id": 3, "name": "Atari 7800", "shortName": "Atari 7800" },
+  { "platform_id": 4, "name": "Sega Master System", "shortName": "SMS" },
+  { "platform_id": 5, "name": "Sega Genesis", "shortName": "Genesis" },
+  { "platform_id": 6, "name": "Sega Dreamcast", "shortName": "Dreamcast" },
+  { "platform_id": 7, "name": "Sega Saturn", "shortName": "Saturn" },
+  { "platform_id": 8, "name": "Sega Game Gear", "shortName": "SGG" },
+  { "platform_id": 9, "name": "Nintendo Entertainment System (NES)", "shortName": "NES" },
+  { "platform_id": 10, "name": "Super Nintendo (SNES)", "shortName": "SNES" },
+  { "platform_id": 11, "name": "Nintendo 64", "shortName": "N64" },
+  { "platform_id": 12, "name": "Nintendo GameCube", "shortName": "NGC" },
+  { "platform_id": 13, "name": "Nintendo Game Boy", "shortName": "Game Boy" },
+  { "platform_id": 14, "name": "Nintendo Game Boy Color", "shortName": "GBC" },
+  { "platform_id": 15, "name": "Nintendo Game Boy Advance", "shortName": "GBA" },
+  { "platform_id": 16, "name": "Sony PlayStation", "shortName": "PS1" },
+  { "platform_id": 17, "name": "Sony PlayStation 2", "shortName": "PS2" }
+]
